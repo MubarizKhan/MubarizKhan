@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MubarizKhan
-- 👀 I’m interested in Networks, Software-Engineering, Cloud-DevOps and Deep Learning.
+- 👀 I’m interested in Computer Networks, Software-Engineering, Cloud-DevOps, Data Science and Deep Learning.
 - 🌱 I’m currently working on Rails.
 - 💞️ I’m looking to collaborate on any projects aligning with my interests.
 - 📫 reach me at @mubariz.khan@devntech.com
