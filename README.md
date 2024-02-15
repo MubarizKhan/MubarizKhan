@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MubarizKhan
-- 👀 I’m interested in Computer Networks, Software-Engineering, Cloud-DevOps, Data Science and Deep Learning.
-- 🌱 I’m currently working on Rails.
-- 💞️ I’m looking to collaborate on any projects aligning with my interests.
-- 📫 reach me at @mubariz.khan@devntech.com
+- 👀 I’m interested in everything Computer Science!
+- 🌱 I’m currently focusing on grad school 
+- 💞️ I’m looking to collaborate on any projects relating to Datascience & Deep Learning!
+- 📫 reach me at @mubarizahmedkhan@gmail.com
 
 <!---
 MubarizKhan/MubarizKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
