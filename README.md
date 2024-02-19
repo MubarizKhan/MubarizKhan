@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MubarizKhan
+- 👋 Hi, I’m @MubarizKhan!
 - 👀 I’m interested in everything Computer Science!
 - 🌱 I’m currently focusing on grad school 
 - 💞️ I’m looking to collaborate on any projects relating to Datascience & Deep Learning!
